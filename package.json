@@ -1,0 +1,5 @@
+{
+  "name": "float-health-diagnostic",
+  "private": true,
+  "scripts": { "dev": "next dev" }
+}
