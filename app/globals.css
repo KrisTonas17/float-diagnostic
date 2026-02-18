@@ -1,0 +1,19 @@
+/* app/globals.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --float-blue: #0052CC;
+    --float-blue-dark: #003D99;
+    --float-teal: #00B8D9;
+    --float-slate: #172B4D;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
